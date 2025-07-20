@@ -2,14 +2,16 @@
 
 Currently Not used ENV for Redis password and address, later on will integrate.
 
-``` Post Request: /short, 
+``` 
+Post Request: /short, 
 
 Body 
 "url" :"newsun.com.np"
 
 ```
 
-``` GET Request : /DK93KD
+``` 
+GET Request : /DK93KD
 
 ```
 
